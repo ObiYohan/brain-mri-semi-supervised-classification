@@ -8,5 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+.venv-1/
 
 data/
+*.pkl
+*.npy
